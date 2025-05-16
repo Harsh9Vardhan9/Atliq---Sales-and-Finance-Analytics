@@ -1,1 +1,1 @@
-# Atliq---Sales-and-Finance-Analytics
+# Atliq-Sales and Finance Analytics
